@@ -2905,6 +2905,12 @@ footer#footer {
   }
 }
 
+.responsive-image {
+  width: 100%; /* Ajusta à largura disponível */
+  height: auto; /* Mantém a proporção da altura */
+  display: block; /* Remove espaçamento indesejado ao redor da imagem */
+}
+
 /*--------------------------------------------------------------
 /** 5.6 Portfolio Tabs
 --------------------------------------------------------------*/
